@@ -6,7 +6,7 @@ package arraydemo;
 
 /**
  *Hello this is an commit changes
- * @author hp
+ * this is for fetch and merge
  */
 public class Arraydemo {
 
