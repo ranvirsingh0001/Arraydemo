@@ -9,7 +9,7 @@ package arraydemo;
  * this is for fetch and merge
  */
 public class Arraydemo {
-
+z
     /**
      * @param args the command line arguments
      */
